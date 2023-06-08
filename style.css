@@ -1,0 +1,60 @@
+body{
+
+    background-color: black;
+}
+
+.header{
+background-color:black;
+color:white ;
+font-weight: bold;
+line-height: 30px;
+}
+.header p {
+    font-family: 'Foldit', cursive;
+    color: rgba(199, 201, 213, 0.927);
+    letter-spacing: 2px;
+}
+
+.header h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(252, 253, 255, 0.927);
+    letter-spacing:2px ;
+}
+
+.main_div{
+    background-color:darkgray;
+ 
+}
+
+.last_div{
+    position: fixed;
+    background-color:black;
+    color: white;
+    width: 1537px;
+    height: 50px;
+   text-align: center;
+  font-weight: bolder;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 2px 2px  rgb(207, 171, 171);
+  bottom: 0;
+
+    }
+    
+ #result_lbl{
+
+font-family: 'Orbitron', sans-serif; 
+size: 20px;
+letter-spacing:2px ;
+ }
+
+ #result_con{
+    font-family: 'Orbitron', sans-serif; 
+    size: 20px;
+    font-weight: bold;
+    letter-spacing:2px ;
+ }
+ .sc{
+    font-family: 'Foldit', cursive;
+    font-weight: bolder; 
+    letter-spacing: 2px;
+ }
